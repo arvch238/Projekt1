@@ -1,0 +1,169 @@
+region	utbildningsnivå	år	Befolkning 16-95+ år
+01 Stockholms län	förgymnasial utbildning kortare än 9 år	2019	79082
+01 Stockholms län	förgymnasial utbildning, 9 (10) år	2019	219020
+01 Stockholms län	gymnasial utbildning, högst 2 år	2019	296224
+01 Stockholms län	gymnasial utbildning, 3 år	2019	384712
+01 Stockholms län	eftergymnasial utbildning, mindre än 3 år	2019	295747
+01 Stockholms län	eftergymnasial utbildning, 3 år eller mer	2019	533216
+01 Stockholms län	forskarutbildning	2019	30919
+01 Stockholms län	uppgift om utbildningsnivå saknas	2019	69597
+03 Uppsala län	förgymnasial utbildning kortare än 9 år	2019	17521
+03 Uppsala län	förgymnasial utbildning, 9 (10) år	2019	36474
+03 Uppsala län	gymnasial utbildning, högst 2 år	2019	55204
+03 Uppsala län	gymnasial utbildning, 3 år	2019	65827
+03 Uppsala län	eftergymnasial utbildning, mindre än 3 år	2019	44492
+03 Uppsala län	eftergymnasial utbildning, 3 år eller mer	2019	73304
+03 Uppsala län	forskarutbildning	2019	10132
+03 Uppsala län	uppgift om utbildningsnivå saknas	2019	7943
+04 Södermanlands län	förgymnasial utbildning kortare än 9 år	2019	22163
+04 Södermanlands län	förgymnasial utbildning, 9 (10) år	2019	33470
+04 Södermanlands län	gymnasial utbildning, högst 2 år	2019	56236
+04 Södermanlands län	gymnasial utbildning, 3 år	2019	54864
+04 Södermanlands län	eftergymnasial utbildning, mindre än 3 år	2019	29827
+04 Södermanlands län	eftergymnasial utbildning, 3 år eller mer	2019	36724
+04 Södermanlands län	forskarutbildning	2019	1092
+04 Södermanlands län	uppgift om utbildningsnivå saknas	2019	5350
+05 Östergötlands län	förgymnasial utbildning kortare än 9 år	2019	29486
+05 Östergötlands län	förgymnasial utbildning, 9 (10) år	2019	47358
+05 Östergötlands län	gymnasial utbildning, högst 2 år	2019	78524
+05 Östergötlands län	gymnasial utbildning, 3 år	2019	84179
+05 Östergötlands län	eftergymnasial utbildning, mindre än 3 år	2019	52665
+05 Östergötlands län	eftergymnasial utbildning, 3 år eller mer	2019	74044
+05 Östergötlands län	forskarutbildning	2019	4598
+05 Östergötlands län	uppgift om utbildningsnivå saknas	2019	8124
+06 Jönköpings län	förgymnasial utbildning kortare än 9 år	2019	28365
+06 Jönköpings län	förgymnasial utbildning, 9 (10) år	2019	40033
+06 Jönköpings län	gymnasial utbildning, högst 2 år	2019	63272
+06 Jönköpings län	gymnasial utbildning, 3 år	2019	68402
+06 Jönköpings län	eftergymnasial utbildning, mindre än 3 år	2019	37926
+06 Jönköpings län	eftergymnasial utbildning, 3 år eller mer	2019	46779
+06 Jönköpings län	forskarutbildning	2019	1085
+06 Jönköpings län	uppgift om utbildningsnivå saknas	2019	6806
+07 Kronobergs län	förgymnasial utbildning kortare än 9 år	2019	14555
+07 Kronobergs län	förgymnasial utbildning, 9 (10) år	2019	20811
+07 Kronobergs län	gymnasial utbildning, högst 2 år	2019	35462
+07 Kronobergs län	gymnasial utbildning, 3 år	2019	36148
+07 Kronobergs län	eftergymnasial utbildning, mindre än 3 år	2019	21820
+07 Kronobergs län	eftergymnasial utbildning, 3 år eller mer	2019	28054
+07 Kronobergs län	forskarutbildning	2019	830
+07 Kronobergs län	uppgift om utbildningsnivå saknas	2019	4630
+08 Kalmar län	förgymnasial utbildning kortare än 9 år	2019	19484
+08 Kalmar län	förgymnasial utbildning, 9 (10) år	2019	27710
+08 Kalmar län	gymnasial utbildning, högst 2 år	2019	48824
+08 Kalmar län	gymnasial utbildning, 3 år	2019	44545
+08 Kalmar län	eftergymnasial utbildning, mindre än 3 år	2019	25318
+08 Kalmar län	eftergymnasial utbildning, 3 år eller mer	2019	31257
+08 Kalmar län	forskarutbildning	2019	855
+08 Kalmar län	uppgift om utbildningsnivå saknas	2019	4138
+09 Gotlands län	förgymnasial utbildning kortare än 9 år	2019	4457
+09 Gotlands län	förgymnasial utbildning, 9 (10) år	2019	6256
+09 Gotlands län	gymnasial utbildning, högst 2 år	2019	11843
+09 Gotlands län	gymnasial utbildning, 3 år	2019	11531
+09 Gotlands län	eftergymnasial utbildning, mindre än 3 år	2019	6036
+09 Gotlands län	eftergymnasial utbildning, 3 år eller mer	2019	8640
+09 Gotlands län	forskarutbildning	2019	241
+09 Gotlands län	uppgift om utbildningsnivå saknas	2019	823
+10 Blekinge län	förgymnasial utbildning kortare än 9 år	2019	12965
+10 Blekinge län	förgymnasial utbildning, 9 (10) år	2019	15721
+10 Blekinge län	gymnasial utbildning, högst 2 år	2019	29931
+10 Blekinge län	gymnasial utbildning, 3 år	2019	28552
+10 Blekinge län	eftergymnasial utbildning, mindre än 3 år	2019	17874
+10 Blekinge län	eftergymnasial utbildning, 3 år eller mer	2019	22435
+10 Blekinge län	forskarutbildning	2019	568
+10 Blekinge län	uppgift om utbildningsnivå saknas	2019	2654
+12 Skåne län	förgymnasial utbildning kortare än 9 år	2019	80141
+12 Skåne län	förgymnasial utbildning, 9 (10) år	2019	138659
+12 Skåne län	gymnasial utbildning, högst 2 år	2019	209718
+12 Skåne län	gymnasial utbildning, 3 år	2019	237184
+12 Skåne län	eftergymnasial utbildning, mindre än 3 år	2019	157458
+12 Skåne län	eftergymnasial utbildning, 3 år eller mer	2019	238890
+12 Skåne län	forskarutbildning	2019	14779
+12 Skåne län	uppgift om utbildningsnivå saknas	2019	34324
+13 Hallands län	förgymnasial utbildning kortare än 9 år	2019	21706
+13 Hallands län	förgymnasial utbildning, 9 (10) år	2019	33252
+13 Hallands län	gymnasial utbildning, högst 2 år	2019	56284
+13 Hallands län	gymnasial utbildning, 3 år	2019	64067
+13 Hallands län	eftergymnasial utbildning, mindre än 3 år	2019	37196
+13 Hallands län	eftergymnasial utbildning, 3 år eller mer	2019	49931
+13 Hallands län	forskarutbildning	2019	1822
+13 Hallands län	uppgift om utbildningsnivå saknas	2019	4966
+14 Västra Götalands län	förgymnasial utbildning kortare än 9 år	2019	103657
+14 Västra Götalands län	förgymnasial utbildning, 9 (10) år	2019	176117
+14 Västra Götalands län	gymnasial utbildning, högst 2 år	2019	270519
+14 Västra Götalands län	gymnasial utbildning, 3 år	2019	310950
+14 Västra Götalands län	eftergymnasial utbildning, mindre än 3 år	2019	195951
+14 Västra Götalands län	eftergymnasial utbildning, 3 år eller mer	2019	293998
+14 Västra Götalands län	forskarutbildning	2019	15413
+14 Västra Götalands län	uppgift om utbildningsnivå saknas	2019	35252
+17 Värmlands län	förgymnasial utbildning kortare än 9 år	2019	18810
+17 Värmlands län	förgymnasial utbildning, 9 (10) år	2019	28604
+17 Värmlands län	gymnasial utbildning, högst 2 år	2019	55593
+17 Värmlands län	gymnasial utbildning, 3 år	2019	55146
+17 Värmlands län	eftergymnasial utbildning, mindre än 3 år	2019	29781
+17 Värmlands län	eftergymnasial utbildning, 3 år eller mer	2019	38497
+17 Värmlands län	forskarutbildning	2019	1116
+17 Värmlands län	uppgift om utbildningsnivå saknas	2019	5810
+18 Örebro län	förgymnasial utbildning kortare än 9 år	2019	20783
+18 Örebro län	förgymnasial utbildning, 9 (10) år	2019	31924
+18 Örebro län	gymnasial utbildning, högst 2 år	2019	54725
+18 Örebro län	gymnasial utbildning, 3 år	2019	58076
+18 Örebro län	eftergymnasial utbildning, mindre än 3 år	2019	33292
+18 Örebro län	eftergymnasial utbildning, 3 år eller mer	2019	42376
+18 Örebro län	forskarutbildning	2019	1485
+18 Örebro län	uppgift om utbildningsnivå saknas	2019	5020
+19 Västmanlands län	förgymnasial utbildning kortare än 9 år	2019	17509
+19 Västmanlands län	förgymnasial utbildning, 9 (10) år	2019	30772
+19 Västmanlands län	gymnasial utbildning, högst 2 år	2019	50253
+19 Västmanlands län	gymnasial utbildning, 3 år	2019	52080
+19 Västmanlands län	eftergymnasial utbildning, mindre än 3 år	2019	28939
+19 Västmanlands län	eftergymnasial utbildning, 3 år eller mer	2019	38361
+19 Västmanlands län	forskarutbildning	2019	1291
+19 Västmanlands län	uppgift om utbildningsnivå saknas	2019	5036
+20 Dalarnas län	förgymnasial utbildning kortare än 9 år	2019	21425
+20 Dalarnas län	förgymnasial utbildning, 9 (10) år	2019	31081
+20 Dalarnas län	gymnasial utbildning, högst 2 år	2019	58381
+20 Dalarnas län	gymnasial utbildning, 3 år	2019	55983
+20 Dalarnas län	eftergymnasial utbildning, mindre än 3 år	2019	27883
+20 Dalarnas län	eftergymnasial utbildning, 3 år eller mer	2019	35369
+20 Dalarnas län	forskarutbildning	2019	983
+20 Dalarnas län	uppgift om utbildningsnivå saknas	2019	4565
+21 Gävleborgs län	förgymnasial utbildning kortare än 9 år	2019	22230
+21 Gävleborgs län	förgymnasial utbildning, 9 (10) år	2019	33484
+21 Gävleborgs län	gymnasial utbildning, högst 2 år	2019	58312
+21 Gävleborgs län	gymnasial utbildning, 3 år	2019	54800
+21 Gävleborgs län	eftergymnasial utbildning, mindre än 3 år	2019	28065
+21 Gävleborgs län	eftergymnasial utbildning, 3 år eller mer	2019	34402
+21 Gävleborgs län	forskarutbildning	2019	859
+21 Gävleborgs län	uppgift om utbildningsnivå saknas	2019	4095
+22 Västernorrlands län	förgymnasial utbildning kortare än 9 år	2019	15732
+22 Västernorrlands län	förgymnasial utbildning, 9 (10) år	2019	26610
+22 Västernorrlands län	gymnasial utbildning, högst 2 år	2019	51420
+22 Västernorrlands län	gymnasial utbildning, 3 år	2019	45477
+22 Västernorrlands län	eftergymnasial utbildning, mindre än 3 år	2019	25768
+22 Västernorrlands län	eftergymnasial utbildning, 3 år eller mer	2019	32358
+22 Västernorrlands län	forskarutbildning	2019	813
+22 Västernorrlands län	uppgift om utbildningsnivå saknas	2019	3415
+23 Jämtlands län	förgymnasial utbildning kortare än 9 år	2019	7713
+23 Jämtlands län	förgymnasial utbildning, 9 (10) år	2019	12675
+23 Jämtlands län	gymnasial utbildning, högst 2 år	2019	26325
+23 Jämtlands län	gymnasial utbildning, 3 år	2019	26089
+23 Jämtlands län	eftergymnasial utbildning, mindre än 3 år	2019	13409
+23 Jämtlands län	eftergymnasial utbildning, 3 år eller mer	2019	18533
+23 Jämtlands län	forskarutbildning	2019	477
+23 Jämtlands län	uppgift om utbildningsnivå saknas	2019	1941
+24 Västerbottens län	förgymnasial utbildning kortare än 9 år	2019	13526
+24 Västerbottens län	förgymnasial utbildning, 9 (10) år	2019	23177
+24 Västerbottens län	gymnasial utbildning, högst 2 år	2019	49340
+24 Västerbottens län	gymnasial utbildning, 3 år	2019	50793
+24 Västerbottens län	eftergymnasial utbildning, mindre än 3 år	2019	31488
+24 Västerbottens län	eftergymnasial utbildning, 3 år eller mer	2019	46612
+24 Västerbottens län	forskarutbildning	2019	3884
+24 Västerbottens län	uppgift om utbildningsnivå saknas	2019	4265
+25 Norrbottens län	förgymnasial utbildning kortare än 9 år	2019	13782
+25 Norrbottens län	förgymnasial utbildning, 9 (10) år	2019	23128
+25 Norrbottens län	gymnasial utbildning, högst 2 år	2019	54980
+25 Norrbottens län	gymnasial utbildning, 3 år	2019	51345
+25 Norrbottens län	eftergymnasial utbildning, mindre än 3 år	2019	26034
+25 Norrbottens län	eftergymnasial utbildning, 3 år eller mer	2019	34536
+25 Norrbottens län	forskarutbildning	2019	1476
+25 Norrbottens län	uppgift om utbildningsnivå saknas	2019	3519
